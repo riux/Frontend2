@@ -3,6 +3,30 @@
 	{
 		"selected_items":
 		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"fon",
+				"font-zise"
+			]
 		]
 	},
 	"buffers":
@@ -11,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1856,
+				"buffer_size": 6617,
 				"line_ending": "Windows"
 			}
 		},
@@ -19,15 +43,23 @@
 			"file": "css/puls4.styl",
 			"settings":
 			{
-				"buffer_size": 23,
+				"buffer_size": 4524,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/JPAA/Downloads/icomoon (1)/style.css",
+			"settings":
+			{
+				"buffer_size": 837,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "css/puls4.css",
 			"settings":
 			{
-				"buffer_size": 21,
+				"buffer_size": 2946,
 				"line_ending": "Windows"
 			}
 		}
@@ -35,9 +67,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 219.0,
 		"selected_items":
 		[
+			[
+				"syntax st",
+				"Set Syntax: Stylus"
+			],
+			[
+				"syntax c",
+				"Set Syntax: CSS"
+			],
 			[
 				"instal",
 				"Package Control: Install Package"
@@ -55,7 +95,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 525.0
+		"width": 423.0
 	},
 	"console":
 	{
@@ -72,6 +112,7 @@
 	},
 	"file_history":
 	[
+		"/E/curso frontend/CURSO.PROFESIONAL.DE.FRONTEND-MEJORANDO.LA/MATERIALES/2g-clase2/europa/css/puls4.css",
 		"/D/Frontend/Frontend2/css/frontend.sublime-project",
 		"/C/Users/JPAA/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Users/JPAA/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
@@ -94,6 +135,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"font",
+			"zise"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -111,7 +154,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -119,15 +162,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 1856,
+						"buffer_size": 6617,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1500,
-								1500
+								6364,
+								6364
 							]
 						],
 						"settings":
@@ -184,7 +227,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 80.0,
+						"translation.y": 5568.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -194,15 +237,15 @@
 					"file": "css/puls4.styl",
 					"settings":
 					{
-						"buffer_size": 23,
+						"buffer_size": 4524,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23,
-								23
+								4245,
+								4245
 							]
 						],
 						"settings":
@@ -255,28 +298,104 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close"
 							],
-							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5432.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "css/puls4.css",
+					"file": "/C/Users/JPAA/Downloads/icomoon (1)/style.css",
 					"settings":
 					{
-						"buffer_size": 21,
+						"buffer_size": 837,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21,
-								21
+								836,
+								836
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/puls4.css",
+					"settings":
+					{
+						"buffer_size": 2946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1102,
+								1108
 							]
 						],
 						"settings":
@@ -396,6 +515,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true
 }
